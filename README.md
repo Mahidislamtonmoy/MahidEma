@@ -1,3 +1,3 @@
-# THIS BOT BYPASS BY MR CHAND 
-# FIX ALL PROBLEM
-# FEEL THE POWER OF CHAND TRICKER
+# Bot Admin: Mahid Islam Tonmoy
+# Id Link: https://www.facebook.com/Mahid.Islam.Tonmoy.01
+# 
