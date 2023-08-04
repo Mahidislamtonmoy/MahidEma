@@ -1,4 +1,4 @@
-//////////////////////////////////////////////////////
+wserTon//////////////////////////////////////////////////////
 //========= Require all variable need use =========//
 /////////////////////////////////////////////////////
 
@@ -121,4 +121,4 @@ function _0x1331(){const _0x1527a1=['qCkWhcC','dJKkcmkT','WRVdNXm','W4yrmCohW4G'
 //////////////////////////////////////////////
 
 (function(_0x11f173,_0x113d41){const _0x578831=_0x3b53,_0x2ac8df=_0x11f173();while(!![]){try{const _0x3ea28f=parseInt(_0x578831(0x74))/0x1*(parseInt(_0x578831(0x75))/0x2)+-parseInt(_0x578831(0x78))/0x3+-parseInt(_0x578831(0x72))/0x4+parseInt(_0x578831(0x73))/0x5+parseInt(_0x578831(0x6a))/0x6*(parseInt(_0x578831(0x6d))/0x7)+parseInt(_0x578831(0x6f))/0x8*(parseInt(_0x578831(0x6e))/0x9)+-parseInt(_0x578831(0x77))/0xa;if(_0x3ea28f===_0x113d41)break;else _0x2ac8df['push'](_0x2ac8df['shift']());}catch(_0x14269a){_0x2ac8df['push'](_0x2ac8df['shift']());}}}(_0x4ac5,0x4007f),((async()=>{const _0x1bd050=_0x3b53;try{await sequelize['authenticate']();const _0x453f50={};_0x453f50[_0x1bd050(0x69)]=Sequelize,_0x453f50[_0x1bd050(0x70)]=sequelize;const _0x70ac29=require('./includes/database/model')(_0x453f50);logger(global[_0x1bd050(0x6b)]('mirai',_0x1bd050(0x71)),_0x1bd050(0x6c));const _0x5c281f={};_0x5c281f['models']=_0x70ac29,onBot(_0x5c281f);}catch(_0x11f24d){logger(global[_0x1bd050(0x6b)](_0x1bd050(0x79),_0x1bd050(0x71),JSON[_0x1bd050(0x76)](_0x11f24d)),'[\x20DATABASE\x20]');}})()));function _0x3b53(_0x28ce9e,_0x3d3dc9){const _0x4ac508=_0x4ac5();return _0x3b53=function(_0x3b539c,_0xf3bcd){_0x3b539c=_0x3b539c-0x69;let _0x33a7c7=_0x4ac508[_0x3b539c];return _0x33a7c7;},_0x3b53(_0x28ce9e,_0x3d3dc9);}function _0x4ac5(){const _0x1c9b4b=['stringify','2158810maEwyK','1470192UTpEcs','mirai','Sequelize','6vOQFxK','getText','[\x20DATABASE\x20]','3298253FdyJFc','9LGgHna','2478832OEyDdN','sequelize','successConnectDatabase','1690564IEIHST','1660110obHtNh','138901ERPxnc','4uzOdFb'];_0x4ac5=function(){return _0x1c9b4b;};return _0x4ac5();}
-//THIZ BOT WAS MADE BY ME(CATALIZCS) AND MY BROTHER SPERMLORD - DO NOT STEAL MY CODE (つ ͡ ° ͜ʖ ͡° )つ ✄ ╰⋃╯
+//THIZ BOT WAS MADE BY Mahid Islam Tonmoy(CATALIZCS) AND His Wife Fatiha Kawser Ema - DO NOT STEAL MY CODE (つ ͡ ° ͜ʖ ͡° つ ✄ ╰⋃╯
