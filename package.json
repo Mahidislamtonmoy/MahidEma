@@ -1,7 +1,7 @@
 {
-    "name": "MiraiBypassD-Jukie",
+    "name": "MiraiBypass-Mahid Islam Tonmoy",
     "version": "1.2.14",
-    "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
+    "description": "A simple Facebook Messenger Bot made by Mahid Islam Tonmoy(CatalizCS) and His Wife Fatiha Kawser Ema.",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/D-Jukie/miraiv2.git"
     },
-    "author": "D-Jukie",
+    "author": "Mahid",
     "license": "GPL-3.0",
     "dependencies": {
         "simple-youtube-api": "",
