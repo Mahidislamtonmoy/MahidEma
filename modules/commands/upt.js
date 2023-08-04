@@ -3,8 +3,8 @@ module.exports.config = {
 	version: "1.0.1",
 	hasPermssion: 0,
 	credits: "Mirai Team",
-	description: "Kiểm tra thời gian bot đã online",
-	commandCategory: "Hệ thống",
+	description: "Check the time when bot was online",
+	commandCategory: "System",
 	cooldowns: 5,
 	dependencies: {
 		"pidusage": ""
