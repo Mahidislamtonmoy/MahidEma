@@ -3,7 +3,7 @@ module.exports.config = {
 	eventType: ["log:subscribe"],
 	version: "1.0.4",
 	credits: "Mirai Team",
-	description: "Thông báo bot hoặc người vào nhóm",
+	description: "Notify when someone joins the group",
 	dependencies: {
 		"fs-extra": ""
 	}
